@@ -1,0 +1,6 @@
+output
+output_0
+__pycache__
+data/*
+wandb/*
+venv/*
